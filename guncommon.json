@@ -1,0 +1,29 @@
+{
+	"uGenes": [
+		{
+			"rec": "nBER",
+			"dom": "BER",
+			"phen": "Berry"
+		},
+		{
+			"rec": "nMAN",
+			"dom": "MAN",
+			"phen": "Mango"
+		},
+		{
+			"rec": "nBLU",
+			"dom": "BLU",
+			"phen": "Blue"
+		},
+    {
+			"rec": "nMLK",
+			"dom": "MLK",
+			"phen": "Milk"
+		},
+    {
+			"rec": "nSUN",
+			"dom": "SUN",
+			"phen": "Sunshine"
+		}
+	]
+}
